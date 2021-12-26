@@ -51,7 +51,10 @@ Olá, me chamo **Alexandre Altgauzen**, sou de São Paulo, Brasil e atualmente m
 
 ## 📊 Github Stats
 
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+<div align="center">
+  <img height="155px" src="https://github-readme-stats.vercel.app/api?username=altgauzen&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altgauzen&layout=compact&langs_count=7&theme=dracula&title_color=D4D4D4&bg_color=1A1D21"/>
+</div>
 
 <br />
 <br />
