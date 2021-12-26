@@ -13,7 +13,7 @@
 
 Olá, me chamo **Alexandre Altgauzen**, sou de São Paulo, Brasil e atualmente moro em Bragança, Portugal. Sou estudante de tecnologia **Trybe** 🚀. Sou Engenheiro Civil e busco transição de carreira para **Desenvolvedor Web**.
 
-**Meus interesses pessoais:**
+## Meus interesses pessoais:
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
@@ -28,7 +28,7 @@ Olá, me chamo **Alexandre Altgauzen**, sou de São Paulo, Brasil e atualmente m
 <br />
 <br />
 
-**Linguagens e ferramentas:**  
+## Linguagens e ferramentas:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
