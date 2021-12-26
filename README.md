@@ -49,6 +49,10 @@ Olá, me chamo **Alexandre Altgauzen**, sou de São Paulo, Brasil e atualmente m
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 </p>
 
+## 📊 Github Stats
+
+https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+
 <br />
 <br />
 
