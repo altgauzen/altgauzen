@@ -23,7 +23,6 @@ Olá, me chamo **Alexandre Altgauzen**, sou de São Paulo, Brasil e atualmente m
 - 💼 Estou perseguindo conhecimento para uma transição de carreira como desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para **altgauzen@gmail.com** para me encontrar.
-- 📝 Veja meu Curriculum Vitae <a href="https://" target="_blank">clicando aqui</a> para mais informações.
 
 <br />
 <br />
