@@ -12,6 +12,8 @@
 <br />
 
 Olá, me chamo **Alexandre Altgauzen**, sou de São Paulo, Brasil e atualmente moro em Bragança, Portugal. Sou **engenheiro civil**, estudante de tecnologia na  **Trybe**, buscando transição de carreira para **Desenvolvedor Web**.
+<br />
+Quero desenvolver minha carreira sob a tutela de uma empresa que valorize o **empenho e a inovação**.
 
 ## Meus interesses pessoais:
 
@@ -50,7 +52,6 @@ Olá, me chamo **Alexandre Altgauzen**, sou de São Paulo, Brasil e atualmente m
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="vscode" width="40" height="40"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   
