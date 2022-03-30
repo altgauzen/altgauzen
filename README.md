@@ -18,7 +18,8 @@ Olá, me chamo **Alexandre Altgauzen**, sou de São Paulo, Brasil e atualmente m
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
 - 👨🏽‍💻 Estou estudando Desenvolvimento Web Full-Stack na **Trybe**;
-- 🌱 Estou terminando o terceiro módulo (back-end) de 4 módulos no total. Formatura: maio 2022; 
+- 🌱 Estou terminando o quarto e último módulo (Ciencias da Computação). Formatura: maio 2022;
+- ☕️ Estou fazendo paralelamente uma aceleração em JAVA 11, conclusão em junho 2022;
 - 🤔 Meus hobbies são ouvir música (bom e velho Rock'n'Roll) e jogos de plataforma;
 - 💼 Estou perseguindo conhecimento para uma transição de carreira como desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
