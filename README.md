@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Olá, me chamo **Alexandre Altgauzen**, sou de São Paulo, Brasil e atualmente moro em Bragança, Portugal. Sou **engenheiro civil**, estudante de tecnologia na  **Trybe**, buscando transição de carreira para **Desenvolvedor Web**.
+Olá, me chamo **Alexandre Altgauzen**, sou natural de São Paulo e atualmente moro em Portugal. Sou **engenheiro civil**, estudante de tecnologia na  **Trybe**, buscando transição de carreira para **Desenvolvedor Web**.
 <br />
 Quero desenvolver minha carreira sob a tutela de uma empresa que valorize o **empenho e a inovação**.
 
