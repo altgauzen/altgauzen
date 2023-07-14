@@ -8,7 +8,12 @@
 <br />
 <br />
 
-Olá, me chamo **Alexandre Altgauzen**, sou natural de São Paulo e atualmente moro em Portugal. Sou **engenheiro civil**, estudante de tecnologia na  **Trybe**, buscando transição de carreira para **Desenvolvedor Web**.
+Olá, me chamo **Alexandre Altgauzen**, sou natural de São Paulo e atualmente moro em Portugal.
+Atualmente atuo como Desenvolvedor de software nas seguintes stacks: JavaScript / Typescript, React, Next.js, HTML, Css / Sass, NodeJs, Nest, MongoDB. Conhecimentos em metodologias ágeis, testes automatizados (Mocha, Chai, Sinon) e docker.
+<br />
+Possuo certificado em Desenvolvimento de software na Trybe, com mais de 1500 horas de formação. Sou formado também em Engenharia e já atuei nas áreas de Tecnologia da Informação com infraestrutura e Comercial gerenciando equipes.
+<br />
+Sou apaixonado por tecnologia, inovação e marcas que utilizam essas duas vertentes para contribuir com a construção de um mundo melhor, gerando impacto positivo na vida das pessoas.
 <br />
 Quero desenvolver minha carreira sob a tutela de uma empresa que valorize o **empenho e a inovação**.
 
@@ -16,11 +21,7 @@ Quero desenvolver minha carreira sob a tutela de uma empresa que valorize o **em
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou estudando Desenvolvimento Web Full-Stack na **Trybe**;
-- 🌱 Estou terminando o quarto e último módulo (Ciencias da Computação). Formatura: maio 2022;
-- ☕️ Estou fazendo paralelamente uma aceleração em JAVA 11, conclusão em junho 2022;
 - 🤔 Meus hobbies são ouvir música (bom e velho Rock'n'Roll) e jogos de plataforma;
-- 💼 Estou perseguindo conhecimento para uma transição de carreira como desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para **altgauzen@gmail.com** para me encontrar.
 
