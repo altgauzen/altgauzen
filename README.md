@@ -11,11 +11,13 @@
 Olá, me chamo **Alexandre Altgauzen**, sou natural de São Paulo e atualmente moro em Portugal.
 Atualmente atuo como Desenvolvedor de software nas seguintes stacks: JavaScript / Typescript, React, Next.js, HTML, Css / Sass, NodeJs, Nest, MongoDB. Conhecimentos em metodologias ágeis, testes automatizados (Mocha, Chai, Sinon) e docker.
 <br />
+<br />
 Possuo certificado em Desenvolvimento de software na Trybe, com mais de 1500 horas de formação. Sou formado também em Engenharia e já atuei nas áreas de Tecnologia da Informação com infraestrutura e Comercial gerenciando equipes.
+<br />
 <br />
 Sou apaixonado por tecnologia, inovação e marcas que utilizam essas duas vertentes para contribuir com a construção de um mundo melhor, gerando impacto positivo na vida das pessoas.
 <br />
-Quero desenvolver minha carreira sob a tutela de uma empresa que valorize o **empenho e a inovação**.
+<br />
 
 ## Meus interesses pessoais:
 
